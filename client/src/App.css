@@ -1,0 +1,26 @@
+#chat-window {
+  height: 20rem;
+}
+
+#chat-window-messages {
+  height: 18rem;
+  overflow: auto;
+}
+
+.chat-text {
+  border-radius: 10px;
+  margin-bottom: 0.5rem;
+}
+
+.self {
+  background-color: #0059ff25;
+}
+
+.friend {
+  background-color: #f5deb338;
+}
+
+
+.mine {
+  text-align: right;
+}
